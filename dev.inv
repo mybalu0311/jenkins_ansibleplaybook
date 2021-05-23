@@ -1,2 +1,4 @@
 [webservers]
-172.31.12.189 ansible_user=ec2-user 
+10.0.1.74 Huawei_webserver-1
+10.0.2.177 Huawei_webserver-2
+
